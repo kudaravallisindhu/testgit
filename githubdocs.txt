@@ -1,0 +1,13 @@
+Summary of all commands in git:
+1.	git clone <url>
+2.	git status
+3.	git diff and git diff --color-words and git diff --staged
+4.	git checkout -b <branch-name> and git branch -m <branch-name>
+5.	git add <file_name> and git add .
+6.	git commit -m "<message>"
+7.	git push
+8.	git pull
+9.	git checkout -
+10.	git checkout . and git checkout <file-name>
+11.	git grep "<something you want to find>"
+12.	git log and git cherry-pick <sha-value>
